@@ -1,7 +1,7 @@
 {
   "name": "crudapiwithjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sample RESTful CRUD API using JavaScript and Express",
   "main": "app.js",
   "scripts": {
     "start": "nodemon server.js"
